@@ -66,7 +66,6 @@ h3 {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 40px 0 40px 0;
 }
 
 .background-image {
@@ -100,6 +99,7 @@ h3 {
 .header-top {
     display: flex;
     align-items: center;
+    margin-top: 40px;
     margin-bottom: 40px;
 }
 
@@ -113,6 +113,7 @@ h3 {
 
 .header__bottom {
     display: flex;
+    margin-bottom: 40px;
 }
 
 .header__bottom__items {
