@@ -66,6 +66,7 @@ h3 {
     position: relative;
     display: flex;
     flex-direction: column;
+    padding: 100px 0 100px 0s;
 }
 
 .background-image {
@@ -112,7 +113,6 @@ h3 {
 
 .header__bottom {
     display: flex;
-    padding-bottom: 112px;
 }
 
 .header__bottom__items {
