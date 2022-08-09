@@ -112,7 +112,7 @@ h3 {
 
 .header__bottom {
     display: flex;
-    /* margin-bottom: 100px; */
+    padding-bottom: 112px;
 }
 
 .header__bottom__items {
