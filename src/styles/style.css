@@ -117,7 +117,7 @@ h3 {
     line-height: 72px;
 }
 .header__image::before {
-    content: url(/src/images/main.png);
+    content: url('../images/main.png');
     position: relative;
     height: 525px;
     top: 92px;
