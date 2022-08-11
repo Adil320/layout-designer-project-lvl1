@@ -127,6 +127,7 @@ h3 {
 
 .header__bottom {
     display: flex;
+    padding-bottom: 35px;
 }
 
 .header__bottom__items {
