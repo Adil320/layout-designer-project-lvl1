@@ -128,7 +128,6 @@ h3 {
 
 .header__bottom {
     display: flex;
-    margin-bottom: 100px;
 }
 
 .header__bottom__items {
@@ -154,6 +153,7 @@ h3 {
     text-transform: uppercase;
     margin-top: 40px;
     z-index: -999;
+    margin-bottom: 100px;
 }
 
 
